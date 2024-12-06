@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+ABC8 - abc88.ac - Nhà Cái Cá Cược Uy Tín Hàng Đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`ABC8 <https://abc88.ac/>`_ là một nhà cái cá cược trực tuyến uy tín hàng đầu tại Châu Á, được thành lập từ năm 2010 bởi một tập đoàn giải trí lớn tại Philippines. Sau hơn 10 năm phát triển, ABC8 đã khẳng định vị thế của mình trong ngành công nghiệp cá cược, mở rộng thị trường và nâng cao chất lượng dịch vụ. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với hệ thống trò chơi đa dạng, bao gồm cá cược thể thao, casino trực tuyến, xổ số, và game nổ hũ, ABC8 mang đến cho người chơi những trải nghiệm thú vị và cơ hội thắng lớn. ABC8 cũng nổi bật với các chương trình khuyến mãi hấp dẫn, bảo mật cao và hỗ trợ khách hàng chuyên nghiệp. Được đánh giá cao về sự uy tín, an toàn và tính năng giao dịch tiện lợi, ABC8 cam kết đồng hành cùng người chơi trên hành trình tìm kiếm cơ hội kiếm tiền dễ dàng và thăng hoa.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2979 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0985363856. 
 
-.. toctree::
+Email: info@abc88.ac. 
 
-   usage
-   api
+Website: https://abc88.ac/
+
+#abc8 #trangchuabc88 #dangkyabc8 #dangnhapabc8 #linkabc8
